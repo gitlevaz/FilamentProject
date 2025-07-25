@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .fi-sidebar {
+        @apply bg-gray-800; /* Dark gray background */
+    }
+}
